@@ -1,0 +1,30 @@
+-------------------------------------------
+Batch: 0
+-------------------------------------------
++--------------------+---------+
+|               email|birthYear|
++--------------------+---------+
+|Christina.Huey@te...|     1965|
+|  Ashley.Wu@test.com|     1963|
+|Jerry.Lincoln@tes...|     1962|
+|Jason.Jackson@tes...|     1961|
+|  Trevor.Wu@test.com|     1960|
+|Larry.Fibonnaci@t...|     1959|
+|Angie.Jackson@tes...|     1958|
+|Neeraj.Hansen@tes...|     1956|
+|Bobby.Lincoln@tes...|     1955|
+|Santosh.Abram@tes...|     1954|
+| Lyn.Anandh@test.com|     1953|
+| David.Huey@test.com|     1952|
+|Santosh.Jones@tes...|     1951|
+|Travis.Anandh@tes...|     1950|
+|Frank.Doshi@test.com|     1949|
+|Jacob.Doshi@test.com|     1948|
+| Gail.Clark@test.com|     1946|
+|Angie.Clark@test.com|     1945|
+|Craig.Phillips@te...|     1944|
+|Eric.Aristotle@te...|     1943|
++--------------------+---------+
+only showing top 20 rows
+
+
